@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+webdriver-manager = "==3.3.0"
+selenium = "==3.141.0"
+pandas = "==1.2.3"
+tqdm = "==4.56.2"
+openpyxl = "==3.0.6"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
